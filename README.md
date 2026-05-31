@@ -16,11 +16,11 @@ This dataset studies how social media use affects the mental health of teenagers
   -  Verified data types and feature distributions.
   -  Prepared data for exploratory data analysis and visualization.  
 ## 4) Visualizations Used   
-  -  Bar Charts: to compare categorical variables and frequency distributions.
-  -  Line Charts: to identify trends and patterns across variables.
-  -  Correlation: Heatmap to measure relationships between numerical features.
-  -  Count Plots: to analyze class distributions and categorical features.
-  -  Pie Charts: to compare the relationship between different dimensions.
+  -  **Bar Charts**: to compare categorical variables and frequency distributions.
+  -  **Line Charts**: to identify trends and patterns across variables.
+  -  **Correlation**: Heatmap to measure relationships between numerical features.
+  -  **Count Plots**: to analyze class distributions and categorical features.
+  -  **Pie Charts**: to compare the relationship between different dimensions.
 ## 5) Key Insights 
   -  Higher social media usage is associated with increased stress and addiction levels.
   -  Reduced sleep hours may contribute to poorer mental health outcomes.
